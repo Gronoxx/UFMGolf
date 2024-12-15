@@ -46,5 +46,3 @@ ou
 $ make documentation
 
 ```
-## Desafios
-
